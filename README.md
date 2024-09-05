@@ -1,1 +1,4 @@
-#### This is the new repo for our GCP-Projectfgyt
+# Docker flask application
+
+- This application written in python
+- It shall be deployed on GKE
